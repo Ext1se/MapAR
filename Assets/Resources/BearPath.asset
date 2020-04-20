@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c63d15506dd69f48a388fc9c4976162, type: 3}
+  m_Name: BearPath
+  m_EditorClassIdentifier: 
+  Locations:
+  - Latitude: 56.516436032979556
+    Longitude: 84.93917210353737
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 56.51648892644252
+    Longitude: 84.93945709901203
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 56.51645124891593
+    Longitude: 84.93948599256709
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 56.51641357135085
+    Longitude: 84.9390447092523
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  SplineType: 0
+  Alpha: 0.5
+  SceneViewScale: 1
